@@ -34,6 +34,7 @@ ls data/raw
 
 # 4. In ./data/processed, create the following directories: server_logs, user_logs, and event_logs
 
+mkdir data/processed
 mkdir data/processed/server_logs
 mkdir data/processed/user_logs
 mkdir data/processed/event_logs
